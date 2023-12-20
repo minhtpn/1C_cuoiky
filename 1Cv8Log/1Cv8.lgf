@@ -20,4 +20,12 @@
 {2,"DESKTOP-HR4MD7I",3},
 {13,3,3},
 {4,"_$InfoBase$_.DBConfigUpdateStart",8},
-{4,"_$InfoBase$_.DBConfigUpdate",9}
+{4,"_$InfoBase$_.DBConfigUpdate",9},
+{13,3,2},
+{4,"_$User$_.Update",10},
+{4,"_$User$_.New",11},
+{1,523d5c4d-2ba9-47eb-9ea7-5612754845be,"Minh",4},
+{13,3,4},
+{1,614a762c-3b1a-4705-aee8-b3e73e254388,"Ha",2},
+{3,"1CV8C",2},
+{1,5072b3d1-a1df-4110-aabc-5e2ed9b888d0,"Tai",3}
